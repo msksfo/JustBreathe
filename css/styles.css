@@ -45,6 +45,11 @@ header a:hover {
     text-decoration: none;
 }
 
+header div {
+    margin-right: 1.3rem;
+}
+/* TODO:  the spacing in the header on mobile looks bad. fix it. */
+
 /* wraps the flower */
 .wrapper {
     min-height: calc(100vh - 37px);
